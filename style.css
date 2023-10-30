@@ -31,3 +31,15 @@
         background:red;
    }
 
+ul{
+   display:inline-block;
+   width: 50%;
+}
+
+
+
+
+   .beneficios-imagem{
+    width: 50%;
+   }
+
